@@ -3,4 +3,5 @@
  -->
  
  
-Welcome to my repository. Most of my projects are done in Python (scripts and notebooks), C/C++ and Java. Please don't hesitate to ping me in case you have any question about my projects or willing to collaborate on a nice project.
+💻 Welcome to my repository. Most of my projects are done Python (scripts and notebooks), C/C++ and Java.
+💻 Please don't hesitate to ping me in case you have any question about my projects or willing to collaborate on a nice project.
